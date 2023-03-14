@@ -1,0 +1,6 @@
+<node>
+    <id>1</id> - city ID
+    <id_region>1</id_region> - region ID
+    <name>Moscow</name> - city name
+    <name_latin>msk</name_latin> - latin name of the city
+</node>
